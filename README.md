@@ -1,1 +1,1 @@
-# BCG-Data-Science-Virtual-Experience-Program-with-Forage
+# BCG-Data-Science-Virtual-Experience-Program-with-Forage![Virtual Experience Program](https://github.com/jaich0610/BCG-Data-Science-Virtual-Experience-Program-with-Forage/assets/106703990/2fe50775-838e-45ab-b702-f94192e68020)
